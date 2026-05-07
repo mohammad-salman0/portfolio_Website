@@ -1,7 +1,10 @@
 /**
  * Mohammad Salman — Portfolio
-
-]
+ * Single-file React component. Drop into any Vite/CRA project as App.jsx
+ *
+ * Dependencies needed in package.json:
+ *   "react": "^18",
+ *   "react-dom": "^18"
  *
  * Add to index.html <head>:
  *   <link rel="preconnect" href="https://fonts.googleapis.com" />
